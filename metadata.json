@@ -1,0 +1,5 @@
+{
+  "name": "Study Buddy",
+  "description": "An interactive study assistant powered by the Gemini API. Generate comprehensive study guides on any topic and test your knowledge with AI-powered quizzes.",
+  "requestFramePermissions": []
+}
